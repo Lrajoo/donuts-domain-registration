@@ -1,0 +1,1 @@
+export const verifiedProvidersList = ['provider-abc', 'provider-pqr', 'provider-xyz']
